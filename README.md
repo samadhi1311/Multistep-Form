@@ -7,7 +7,7 @@ This React application implements a multistep form using Formik and Yup for form
 
 ## Dependencies
 
-- React: A JavaScript library for building user interfaces.
+- ReactJS
 - Formik: A form library for React to handle form state, validation, and submission.
 - Yup: A JavaScript schema builder for value parsing and validation.
 
@@ -57,11 +57,6 @@ This React application implements a multistep form using Formik and Yup for form
 2. After validation, user proceeds to the second step, providing firstName and lastName.
 3. User can navigate back and forth between steps.
 4. Upon completing the form, the data is logged to the console (replace `makeRequest` with actual submission logic).
-
-## Styling
-
-- The form styling is externalized to a stylesheet (`styles.css`).
-- Modify styles as needed for a better user interface.
 
 ## Conclusion
 
